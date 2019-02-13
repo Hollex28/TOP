@@ -1,0 +1,48 @@
+Global optimal solution found.
+  Objective value:                              10266.67
+  Infeasibilities:                              0.000000
+  Total solver iterations:                             8
+  Elapsed runtime seconds:                          0.03
+
+  Model Class:                                        LP
+
+  Total variables:                      9
+  Nonlinear variables:                  0
+  Integer variables:                    0
+
+  Total constraints:                   16
+  Nonlinear constraints:                0
+
+  Total nonzeros:                      52
+  Nonlinear nonzeros:                   0
+
+
+
+                                Variable           Value        Reduced Cost
+                                     A_E        933.3333            0.000000
+                                     B_E        2333.333            0.000000
+                                     C_E        7000.000            0.000000
+                                     A_S        1333.333            0.000000
+                                     B_S        666.6667            0.000000
+                                     C_S        0.000000           0.1333333
+                                     A_N        2500.000            0.000000
+                                     B_N        0.000000           0.8000000
+                                     C_N        0.000000            1.200000
+
+                                     Row    Slack or Surplus      Dual Price
+                                       1        10266.67            1.000000
+                           SUPER_DEMANDA        0.000000          -0.2666667
+                          NORMAL_DEMANDA        0.000000            0.000000
+                             COMPRAA_MAX        2266.667            0.000000
+                           COMPRAB_MENOS        0.000000           0.8000000
+                           COMPRAC_MENOS        0.000000            1.200000
+                             PRESUPUESTO       0.4225167E+08        0.000000
+                             CRUDO1SUPER        166.6667            0.000000
+                             CRUDO2SUPER        166.6667            0.000000
+                             CRUDO3SUPER        0.000000           -5.333333
+                            CRUDO1NORMAL        750.0000            0.000000
+                            CRUDO2NORMAL        500.0000            0.000000
+                            CRUDO3NORMAL        250.0000            0.000000
+                              CRUDO1EURO        210.0000            0.000000
+                              CRUDO2EURO        0.000000           -4.000000
+                              CRUDO3EURO        210.0000            0.000000
